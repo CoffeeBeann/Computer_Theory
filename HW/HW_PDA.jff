@@ -37,7 +37,7 @@
 			<from>2</from>
 			<to>2</to>
 			<read/>
-			<pop/>
+			<pop>a</pop>
 			<push/>
 		</transition>
 		<transition>
