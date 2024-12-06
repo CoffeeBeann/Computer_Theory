@@ -1,3 +1,4 @@
+
 def charclass(c):
     '''Turns character c into one of '<', '>', '\' and '.'. '''
     return '.' if c != '<' and c != '>' and c != '\\' else c
